@@ -20,7 +20,7 @@ $(document).ready(function()
 
 	/* 
 
-	1. Vars and Inits
+	1. Vars and Inits & initiate
 
 	*/
 
