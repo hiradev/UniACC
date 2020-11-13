@@ -4,11 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>UniAcc</title>
 </head>
-<body>
+<body >
 <%@ include file="Header.jsp" %>
-<h1 style="margin: 253px">Welcome to Hotel Management System</h1>
+<h2 style="text-align: center; margin: 253px;">Welcome to UniAcc</h2>
+<h2 style="text-align: center; margin:50px;">Settle in somewhere new. Discover stays to live, work, or just relax.</h2>
 <%@ include file="Footer.jsp" %>
 </body>
 </html>
+
