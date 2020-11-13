@@ -13,7 +13,8 @@
 <title>Book Hotel List</title>
 </head>
 <body>
-<div class="super_container">
+<div class="super_container1">
+
 	
 <%@ include file="Header.jsp" %>
 
