@@ -20,7 +20,7 @@ $(document).ready(function()
 
 	/* 
 
-	1. Vars and Inits
+	1. Vars and Inits & initiate
 
 	*/
 
@@ -75,7 +75,7 @@ $(document).ready(function()
 	{
 		if($('.hamburger').length && $('.menu').length)
 		{
-			var hamb = $('.hamburger');
+			var hamb = $('.Rice');
 
 			hamb.on('click', function()
 			{
